@@ -7,3 +7,7 @@ public static double multiply(double num1,double num2){
     public static int divide(int num3,int num4 )
     return num3/num4;
 }
+    public static double divide(double num1,double num2){
+        return num1/num2;
+        
+}
